@@ -1,0 +1,24 @@
+.container {
+    position: relative;
+    width: 1160px;
+    padding: 0;
+    margin: 0 auto;
+}
+.menu-logo {
+    display: flex;
+    align-items: center;
+}
+.site-branding {
+    width: 160px;
+}
+
+#site-navigation {
+    width: calc(100% - 160px);
+}
+.main-navigation ul {
+    justify-content: space-between;
+}
+.main-navigation ul {
+    justify-content: space-between;
+    margin-left: 60px;
+}
